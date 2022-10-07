@@ -8,7 +8,7 @@
 
 ## I'm a Computer Science Student and Intern At [Maksof](https://github.com/maksof)
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, Nodejs, Angular, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love anime and songs
