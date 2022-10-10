@@ -10,7 +10,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love anime and songs
 
-[![Maksof Jawad's github stats](https://github-readme-stats.vercel.app/api?username=maksof-jawad&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Maksof Jawad's github stats](https://github-readme-stats.vercel.app/api?username=maksof-jawad&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/maksof-jawad/)
 
 <div align="center">
   
