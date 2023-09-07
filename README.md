@@ -35,7 +35,7 @@
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **[Maksof Jawad](mailto:contact.syedjawad@gmail.com)**
-- 
+
 <!--Intro end-->
 
 
@@ -83,7 +83,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,ts,js,py,angular,nextjs,react,redux,git,express,firebase,github,html,linux,md,flutter,materialui,mongodb,mysql,postgrespostman,tailwind&perline=14" />
   </a>
 </p>
 
