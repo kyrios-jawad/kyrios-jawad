@@ -109,7 +109,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?maksof-jawad=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 Credit: [maksof-jawad](https://github.com/maksof-jawad)
 
 Last Edited on: 9/7/2023
