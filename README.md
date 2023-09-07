@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -9,13 +8,11 @@
   </ul>
 </div>
 
-
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/maksof-jawad/maksof-jawad/blob/main/img/contribution.svg"
        alt="snake" /></a>
 </div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -24,8 +21,8 @@
   </ul>
 </div>
 
-
 <!--Intro start-->
+
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
@@ -37,8 +34,6 @@
 - 📫 Feel free to reach me out **[Maksof Jawad](mailto:contact.syedjawad@gmail.com)**
 
 <!--Intro end-->
-
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -69,10 +64,8 @@
 </div>
 <!--- trophy (start) -->
 
-
 </p>        
 <!--- stats (end) -->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -83,10 +76,9 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,ts,js,py,angular,nextjs,react,redux,git,express,firebase,github,html,linux,md,flutter,materialui,mongodb,mysql,postgrespostman,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,ts,js,py,angular,nextjs,react,redux,git,express,firebase,github,html,linux,md,flutter,materialui,mongodb,mysql,postgres,postman,tailwind&perline=14" />
   </a>
 </p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -106,7 +98,6 @@
   
 </p>
 
-
 <!--profile visit count-->
 <div align="center">
   
@@ -117,7 +108,8 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
+---
+
 Credit: [maksof-jawad](https://github.com/maksof-jawad)
 
-Last Edited on: 29/4/2023
+Last Edited on: 9/7/2023
