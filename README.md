@@ -104,6 +104,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
-Credit: [maksof-jawad](https://github.com/maksof-jawad)
+Credit: [Syed-Jawad](https://github.com/maksof-jawad)
 
 Last Edited on: 10/7/2023
