@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **[Maksof Jawad](mailto:contact.syedjawad@gmail.com)**
+- 📫 Feel free to reach me out **[Syed Jawad](mailto:contact.syedjawad@gmail.com)**
 
 <!--Intro end-->
 
